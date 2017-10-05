@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/LevelWithChallenge.unity
+  isLoaded: 1
+  isActive: 1

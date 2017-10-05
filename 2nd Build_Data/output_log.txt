@@ -1,0 +1,49 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     2103 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Mathew\Documents\PCG1\2nd Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Mathew\Documents\PCG1\2nd Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Mathew\Documents\PCG1\2nd Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Mathew\Documents\PCG1\2nd Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Mathew\Documents\PCG1\2nd Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Mathew\Documents\PCG1\2nd Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Mathew\Documents\PCG1\2nd Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Mathew\Documents\PCG1\2nd Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+Platform assembly: C:\Users\Mathew\Documents\PCG1\2nd Build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Mathew\Documents\PCG1\2nd Build_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.647038 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.076517 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 250.
+Total: 0.390874 ms (FindLiveObjects: 0.027797 ms CreateObjectMapping: 0.012829 ms MarkObjects: 0.339983 ms  DeleteObjects: 0.008553 ms)
+
+Destroy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.690331 ms
+
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 182.
+Total: 0.563646 ms (FindLiveObjects: 0.034639 ms CreateObjectMapping: 0.029935 ms MarkObjects: 0.357945 ms  DeleteObjects: 0.139842 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.405414 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 205.
+Total: 0.342977 ms (FindLiveObjects: 0.039344 ms CreateObjectMapping: 0.017106 ms MarkObjects: 0.280967 ms  DeleteObjects: 0.004704 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3f28 -> priority: 1 
+  Thread -> id: 4414 -> priority: 1 
